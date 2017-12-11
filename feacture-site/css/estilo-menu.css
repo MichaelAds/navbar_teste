@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+
+
+.menu{
+    height: 104px;
+    background-image: url(../img/bg-menu.jpg);
+    position:absolute;
+vertical-align: middle;
+}
+
+
+.centralizar{
+    position:relative;
+    display:block;
+}
+
+.fundo{
+    background-color: rgb(0, 0, 0);
+}
